@@ -27,3 +27,5 @@ Join by SIP conference room system
 Meeting ID: 522 390 839
 522390839@zoomcrc.com
 ```
+
+**[Agenda for the call](https://github.com/JuliaCommunity/CommunityCalls/blob/master/meeting-notes/2020-03-29-notes.md)**
